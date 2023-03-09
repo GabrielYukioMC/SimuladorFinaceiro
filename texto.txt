@@ -1,0 +1,14 @@
+-- capturar  o valor de kWh para tarifa comercial 0,86
+
+-- capturar o  valor de horas total que as luzes ficam ligadas dentro de um escritorio(sala) 
+-- mostras os dados 
+
+(qtdLampada * potencia * horas *DiasDoMes) calculo do gasto
+
+
+LISTA DE TAREFAS PRA HJ
+
+Simulador de Calculadora Financeira 
+prototipo do site 
+
+

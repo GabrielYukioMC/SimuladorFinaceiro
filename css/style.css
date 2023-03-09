@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.calculadora_finaceira {
+    margin: 50px;
+    padding: 1%;
+    background-color: #f2f5f3;
+    border: 2px solid black;
+
+}
+
+.caixa {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.caixa input {
+    border: 2px solid black;
+    font-size: 18px;
+    transition: 0.9s;
+}
+
+.caixa input:hover {
+    font-size: 20px;
+}
+
+.caixa button {
+    background: #f2f5f3;
+    border: 2px solid black;
+    padding: 2px;
+    font-size: 15px;
+    transition: 0.6s;
+    cursor: pointer;
+}
+
+.caixa button:hover {
+    font-size: 18px;
+}
+
+.exibir {
+    margin-left: 30px;
+    font-size: 16px;
+    width: 60%;
+}
+
+.ver_economia_texto:hover{
+    color: #6aca11;
+}
+
+span{
+    color: #6aca11;
+}
