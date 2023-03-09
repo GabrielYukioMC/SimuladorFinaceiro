@@ -24,6 +24,8 @@ function verGastos() {
     var gastoTotalLampada = (gastoPorLampada * qtdLamp).toFixed(2); //calculo do gasto de todas as lampadas
 
 
+
+    
     // -------------------- Calculo do preço final em R$(reais) -------------------- 
     var gastoFinal = (gastoTotalLampada * valorKWh).toFixed(2); //calculo do gasto final convertido pra reais(R$)
 
