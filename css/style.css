@@ -47,10 +47,17 @@
     width: 60%;
 }
 
-.ver_economia_texto:hover{
+.ver_economia_texto:hover {
     color: #6aca11;
 }
 
-span{
+span {
     color: #6aca11;
+    transition: 0.6s;
+}
+
+span:hover {
+    cursor: pointer;
+    font-size: 17px;
+    color: red;
 }
